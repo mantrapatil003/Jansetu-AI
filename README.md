@@ -60,20 +60,31 @@ The name **JanSetu** represents a **bridge between people and digital services**
 ```text
 Jansetu-AI/
 │
-├── public/
+├── .bolt/                  # Bolt project configuration
+│
+├── public/                 # Static assets
+│
 ├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   └── ...
+│   ├── components/         # Reusable UI components
+│   ├── lib/                # Authentication, i18n, icons & Supabase
+│   ├── pages/              # Application pages
+│   ├── App.tsx             # Main application component
+│   ├── main.tsx            # Application entry point
+│   └── index.css           # Global styles
 │
 ├── supabase/
-├── .bolt/
+│   ├── functions/          # Supabase Edge Functions
+│   ├── migrations/         # Database migrations
+│   └── config.toml         # Supabase configuration
+│
+├── dist/                   # Production build
+├── .gitignore
+├── LICENSE
+├── README.md
 ├── package.json
 ├── vite.config.ts
-├── tsconfig.json
-├── .gitignore
-└── README.md
+├── tailwind.config.js
+└── tsconfig.json
 ```
 
 ## 🚀 Getting Started
