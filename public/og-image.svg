@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#1d4ed8"/>
+  <rect x="0" y="0" width="1200" height="630" fill="url(#grad)"/>
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#172554"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(120, 180)">
+    <rect width="80" height="80" rx="18" fill="white" opacity="0.15"/>
+    <path d="M16 56h5v-18h-5v18zm10 0h5V25h-5v31zm10 0h5V22h-5v34zm10 0h5V16h-5v40zm10 0h5V30h-5v26z" fill="white"/>
+    <path d="M10 66h60v5H10z" fill="white"/>
+  </g>
+  <text x="220" y="240" font-family="Noto Sans, sans-serif" font-size="72" font-weight="700" fill="white">JanSetu</text>
+  <text x="120" y="320" font-family="Noto Sans, sans-serif" font-size="36" font-weight="400" fill="white" opacity="0.85">Connecting Citizens with Government Services</text>
+  <text x="120" y="380" font-family="Noto Sans, sans-serif" font-size="24" font-weight="400" fill="white" opacity="0.6">English | हिन्दी | मराठी</text>
+</svg>
