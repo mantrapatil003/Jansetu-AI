@@ -154,7 +154,7 @@ This project is developed by **Team GazillionX**.
 - **[Mantra Patil](https://www.linkedin.com/in/mantrapatil25/)**
 - **[Pranish Deo](https://www.linkedin.com/in/pranish-deo-92311743b/)**
 - **[Harshal Yadav](https://www.linkedin.com/in/piyush-yadav-b6011b43b)**
-- **[Vikram Rathod](https://www.linkedin.com/in/vikram-chauhan-894282302)**
+- **[Vikram Chauhan](https://www.linkedin.com/in/vikram-chauhan-894282302)**
 
 ---
 
