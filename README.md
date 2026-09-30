@@ -2,7 +2,7 @@
 
 **An AI-powered platform designed to make public services, information, and citizen assistance easier and more accessible.**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)]([https://jansetu-ai-platform-36e1.bolt.host](https://jansetu-ai-five.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://jansetu-ai-five.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/mantrapatil003/Jansetu-AI)
 [![React](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-Fast-blueviolet?style=for-the-badge&logo=vite)](https://vitejs.dev/)
