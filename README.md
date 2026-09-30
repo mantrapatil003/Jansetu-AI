@@ -165,6 +165,6 @@ This project is developed by **Team GazillionX**.
 ⭐ If you find this project useful or interesting, consider giving the repository a star!
 
 🔗 [GitHub Repository](https://github.com/mantrapatil003/Jansetu-AI)  
-🌐 [Live Demo]()
+🌐 [Live Demo](https://mantrapatil003.github.io/)
 
 
